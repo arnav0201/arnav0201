@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**arnav0201/arnav0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Arnav Mohan. I am currently a sophomore at the University of Massachusetts Amherst pursuing a degree in Computer Sciences.
 <br>
 ### \\\\ TECH STACK /////
