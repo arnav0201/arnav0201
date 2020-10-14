@@ -3,14 +3,16 @@
 <!--
 **arnav0201/arnav0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Arnav Mohan. I am currently a sophomore at the University of Massachusetts Amherst pursuing a degree in Computer Sciences.
+<br>
+### \\\\ TECH STACK /////
+JavaScript, Java, CSS, C++, Python, HTML, SQL, Code testing, NodeJS, Web Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me: 
+LinkedIn:
+<br>
+https://www.linkedin.com/in/arnav-mohan-9b5ab11ab/
+<br>
+Handshake:
+<br>
+https://app.joinhandshake.com/users/18267449
