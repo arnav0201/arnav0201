@@ -3,7 +3,7 @@
 My name is Arnav Mohan. I am currently a Junior at the University of Massachusetts Amherst pursuing a degree in Computer Science.
 <br>
 ### \\\\\\\ TECH STACK /////
-JavaScript, Java, CSS, C++, Python, HTML, SQL, Code testing, NodeJS, Web Development 
+JavaScript, Java, CSS, C++, Python, HTML, SQL, Code testing, Python
 
 ### Connect with me: 
 LinkedIn:
